@@ -1,1 +1,1 @@
-# https://macxo.com/
+# macxo.com
