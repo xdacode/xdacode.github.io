@@ -1179,8 +1179,8 @@ a.menu-toggle {
 }
 .intro-content h1 {
 	color: #FFFFFF;
-	font-family: "merriweather-bold", serif;
-	font-size: 5.4rem;
+	font-family: sans-serif;
+	font-size: 6.4rem;
 	line-height: 1.334;
 	max-width: 800px;
 	margin-left: auto;
